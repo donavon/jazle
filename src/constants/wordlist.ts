@@ -79,6 +79,7 @@ export const WORDS = [
   'qunit',
   'ramda',
   'react',
+  'redux',
   'redom',
   'rythm',
   'sharp',
